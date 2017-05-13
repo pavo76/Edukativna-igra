@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edukativna igra.Plugins", "Edukativna igra.Plugins.csproj", "{7258952D-9AE9-F931-A417-059FC73115A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edukativna igra", "Edukativna igra.csproj", "{B0F370FA-17A6-7B31-6D34-1A21D3EB1471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edukativna igra.Editor.Plugins", "Edukativna igra.Editor.Plugins.csproj", "{C1AF0F0A-FB94-FC7A-C20A-A31FF6567C4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7258952D-9AE9-F931-A417-059FC73115A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7258952D-9AE9-F931-A417-059FC73115A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7258952D-9AE9-F931-A417-059FC73115A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7258952D-9AE9-F931-A417-059FC73115A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F370FA-17A6-7B31-6D34-1A21D3EB1471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F370FA-17A6-7B31-6D34-1A21D3EB1471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F370FA-17A6-7B31-6D34-1A21D3EB1471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F370FA-17A6-7B31-6D34-1A21D3EB1471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1AF0F0A-FB94-FC7A-C20A-A31FF6567C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1AF0F0A-FB94-FC7A-C20A-A31FF6567C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1AF0F0A-FB94-FC7A-C20A-A31FF6567C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1AF0F0A-FB94-FC7A-C20A-A31FF6567C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
